@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lutz-Pfannenschmidt
 - 👀 I’m interested in Web and API development
-- 🌱 I’m currently learning how to analyse complicated networks
-- 💞️ I’m looking to collaborate on my IServAPI
+- 🌱 I’m currently learning how to Analyse Sattelite data
 - 📫 How to reach me lutz@lutz-pfannenschmidt.de
 
 <!---
