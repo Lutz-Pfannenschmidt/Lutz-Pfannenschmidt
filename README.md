@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lutz-Pfannenschmidt
 - 👀 I’m interested in Web and API development
-- 🌱 I’m currently learning how to Analyse Sattelite data
+- 🌱 I’m currently developing an incidence response tool
 - 📫 How to reach me lutz@lutz-pfannenschmidt.de
 
 <!---
